@@ -57,10 +57,6 @@ This project is coded with standard languages like HTML, CSS and JavaScript.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](https://www.paulsaenzsucre.dev/To-Do-List/))
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
@@ -119,48 +115,6 @@ npx stylelint "**/*.{css,scss}"
 npx eslint .
 ```
 
-## 👥 Authors <a name="authors"></a>
-
-👥 **Paul Sáenz Sucre**
-
-- GitHub: [@elafildecolor](https://github.com/elafildecolor)
-- Twitter: [@paulsaenzsucre](https://twitter.com/paulsaenzsucre)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/paulsaenzsucre)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## 🔭 Future Features <a name="future-features"></a>
-
-- [ ] **Let more than one user**
-- [ ] **Let more than one list per user**
-- [ ] **Drag and drop to reorder task**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🤝 Contributing <a name="contributing"></a>
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## ⭐️ Show your support <a name="support"></a>
-
-Give a ⭐️ if you like this project!
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-- Hat tip to anyone whose code was used.
-- Thanks for all the curated content that was provided to us.
-- Thanks to my learning and coding partners for all their support.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 📝 License <a name="license"></a>
-
-This project is [MIT](./LICENSE) licensed.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
